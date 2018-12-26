@@ -1,4 +1,4 @@
--- This template is based on the [Open Canvas](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/) from Mozilla. It's been adapted here for use in prose format to make it more easily usable and accessible without being bound by access to Google Slides, Powerpoint, or Keynote. --
+-- If you're planning an open project, it's important to do some up front thinking about not just your product and project goals, but also how what your contributor community and needs are or will be. This template is based on the [Open Canvas](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/) from Mozilla. It's been adapted here for use in prose format to make it more easily usable and accessible without being bound by access to Google Slides, Powerpoint, or Keynote. --
 
 # Open Project Title
 
